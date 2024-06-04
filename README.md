@@ -34,4 +34,18 @@
 ## NuGet package / Class library, simplifying the use of ADO.NET
 [DataVista repo](https://github.com/ag-86/DataVista)
 
+## Full stack WPF app with admin and regular view using ADO.NET / MS SQL
+![admin view](https://github.com/ag-86/Portofolio/assets/105457539/c0db6e3b-a4fb-48b2-bc1d-6fa905d4c031)
+![user view](https://github.com/ag-86/Portofolio/assets/105457539/87545de6-9f3a-43a0-8f75-de5e6b6fd2eb)
+
+This was also the first time using agile-style project management approach and programming in co-op.
+
+## Raspberry pi
+  - setting up Geany with g++ compiler
+  - setting up apache
+  - [first bash script](https://github.com/ag-86/BashApache)
+
+  ![image](https://github.com/ag-86/Portofolio/assets/105457539/ade3b5bd-0afb-40ef-8e2e-f6896b23464d)
+
+
 
