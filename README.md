@@ -43,6 +43,7 @@ This was also the first time using agile-style project management approach and p
 ## Raspberry pi
   - setting up Geany with g++ compiler
   - setting up apache
+    - wrote a html and css webpage
   - [first bash script](https://github.com/ag-86/BashApache)
 
   ![image](https://github.com/ag-86/Portofolio/assets/105457539/ade3b5bd-0afb-40ef-8e2e-f6896b23464d)
