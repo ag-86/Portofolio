@@ -41,12 +41,16 @@
 This was also the first time using agile-style project management approach and programming in co-op.
 
 ## Raspberry pi
+  - editing ssh --config
   - setting up Geany with g++ compiler
   - setting up apache
     - wrote a html and css webpage
   - [first bash script using nano editor](https://github.com/ag-86/BashApache)
 
-  ![image](https://github.com/ag-86/Portofolio/assets/105457539/ade3b5bd-0afb-40ef-8e2e-f6896b23464d)
+  ![desktop](https://github.com/ag-86/Portofolio/assets/105457539/ade3b5bd-0afb-40ef-8e2e-f6896b23464d)
+
+  ![root](https://github.com/ag-86/Portofolio/assets/105457539/d4419a10-d041-42ee-8c93-a7c82b56ab4d)
+
 
 
 
