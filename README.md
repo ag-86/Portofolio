@@ -41,15 +41,10 @@
 This was also the first time using agile-style project management approach and programming in co-op.
 
 ## Raspberry pi
-  - editing ssh --config
-  - setting up Geany with g++ compiler
-  - setting up apache
-    - wrote a html and css webpage
+  - services: ssh, http / https (apache), sql (mariadb), xrdp
+  - ssl certificate for apache
   - [first bash script using nano editor](https://github.com/ag-86/BashApache)
-
-  ![desktop](https://github.com/ag-86/Portofolio/assets/105457539/ade3b5bd-0afb-40ef-8e2e-f6896b23464d)
-
-  ![root](https://github.com/ag-86/Portofolio/assets/105457539/d4419a10-d041-42ee-8c93-a7c82b56ab4d)
+  - [currently developing a GUI app to upload files to any ssh server](https://github.com/ag-86/UploadTroughSSH)
 
 
 
