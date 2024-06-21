@@ -53,4 +53,6 @@ This was also the first time using agile-style project management approach and p
 
 ![image](https://github.com/agC86/Portofolio/assets/105457539/7a999ccf-5d0d-409f-9058-4756ccf36170)
 
+## Started building my C++ knowledge
+  - [C++ Summary](https://github.com/agC86/StudyCpp)
 
