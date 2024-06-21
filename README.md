@@ -46,6 +46,11 @@ This was also the first time using agile-style project management approach and p
   - [first bash script using nano editor](https://github.com/ag-86/BashApache)
   - [currently developing a GUI app to upload files to any ssh server](https://github.com/ag-86/UploadTroughSSH)
 
+## Created my own website
+  - [x] SSL-Certificate
+  - [X] Apache2 running
+  - [X] HTML and CSS
 
+![image](https://github.com/agC86/Portofolio/assets/105457539/7a999ccf-5d0d-409f-9058-4756ccf36170)
 
 
